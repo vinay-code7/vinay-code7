@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **a "Threads Clone" Project**
 
-- 🌱 I’m currently learning **React JS, Advance DSA, Coping with Life...**
+- 🌱 I’m currently learning **React JS, Advance DSA, How to live Life...**
 
-- 💬 Ask me about **Python, DSA, Problem Solving, Life in general...**
+- 💬 Ask me about **Python, DSA, Problem Solving, Movies, Life in general...**
 
-- 📫 How to reach me **vinaycode7@gmail.com**
+- 📫 How to reach me **vinaycode7@gmail.com** or **any of my social media**
 
 - ⚡ Fun fact **I can go on days without sleep (when I'm stuck)...**
 
