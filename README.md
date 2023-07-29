@@ -43,6 +43,6 @@
 <br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-code7)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-code7&langs_count=10)
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=vinay-code7)
 
