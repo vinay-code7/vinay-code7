@@ -38,11 +38,11 @@
 
 
 ## LeetCode Stats:
-![](https://leetcard.jacoblin.cool/vinaycode7?theme=nord&font=Amiko&ext=heatmap)
+![](https://leetcard.jacoblin.cool/vinaycode7?theme=nord&ext=heatmap)
 <br>
 <br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-code7&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=vinay-code7&theme=onedark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-code7)
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=vinay-code7)
 
