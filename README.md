@@ -1,16 +1,15 @@
-# 👋 Hi, I'm Vinay
-
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50"> Hi, I'm Vinay
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vinaycode7) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaycode7)
+[![LeetCode](https://img.shields.io/badge/-Leetcode-orange?&logo=Leetcode&logoColor=white)](https://leetcode.com/vinaycode7/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinaycode7)
+[![LinkTree](https://img.shields.io/badge/Linktree-blue)](https://linktr.ee/vinaycode7)
 ## 💫 About Me:
 
 👨‍💻 CS Major @UnivofDelhi | 🐍 Python, C++, JS Enthusiast | 🛠️ Passionate Problem Solver | 🚀 Aspiring Software Dev | 🌟 Constantly Learning | 🎯 Aiming High</h3>
 - 🌱 I’m currently learning **React JS, Advance DSA** <br>
 - 💬 Ask me about **Python, DSA, Problem Solving, Movies, Life in general...**
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vinaycode7) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaycode7)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinaycode7)
-### View All Social Links: [LinkTree](https://linktr.ee/vinaycode7)
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -42,7 +41,7 @@
 [![](https://leetcard.jacoblin.cool/vinaycode7?theme=nord&ext=heatmap)](https://leetcode.com/vinaycode7)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-code7&langs_count=10&layout=pie&theme=nord)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-code7&langs_count=10&layout=compact&theme=nord)
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=vinay-code7&theme=nord)
 
 ## More Stuff
