@@ -1,16 +1,15 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50"> Hi, I'm Vinay
+# Hi, I'm Vinay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vinaycode7) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaycode7)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-orange?&logo=Leetcode&logoColor=white)](https://leetcode.com/vinaycode7/)
 [![LinkTree](https://img.shields.io/badge/Linktree-blue)](https://linktr.ee/vinaycode7)
-## 💫 About Me:
-
+##  About Me 💫
 👨‍💻 CS Major @UnivofDelhi | 🐍 Python, C++, JS Enthusiast | 🛠️ Passionate Problem Solver | 🚀 Aspiring Software Dev | 🌟 Constantly Learning | 🎯 Aiming High</h3>
 - 🌱 I’m currently learning **React JS, Advance DSA** <br>
 - 💬 Ask me about **Python, DSA, Problem Solving, Movies, Life in general...**
 
 
-## 💻 Tech Stack:
+## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -39,7 +38,7 @@
 ## LeetCode Stats:
 [![](https://leetcard.jacoblin.cool/vinaycode7?theme=nord&ext=heatmap)](https://leetcode.com/vinaycode7)
 
-## 📊 GitHub Stats:
+##  GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-code7&langs_count=10&layout=compact&theme=nord)
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=vinay-code7&theme=nord)
 
